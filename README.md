@@ -10,4 +10,4 @@ If you are interested in using this concept for a music performance or installat
 
 Here is a quick demo video displaying the major functionalities of the ravetable synthesis system
 
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://drive.google.com/file/d/1dAj08pqfmBTn3vYwCS1oMKQySMOd6taD/view?usp=sharing))]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1dAj08pqfmBTn3vYwCS1oMKQySMOd6taD/view?usp=sharing))
+[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1dAj08pqfmBTn3vYwCS1oMKQySMOd6taD/view?usp=sharing)
